@@ -8,16 +8,13 @@
 
 - 🔭 I’m currently working on **[object detection using cnn](https://www.coursera.org/learn/machine-learning)**
 
-- 🌱 I’m currently learning **Computer vision (machine learning andrew ng >> deep learning >> image processing).** :
-Here is a simple flow chart:
-
+- 🌱 I’m currently learning :
 ```mermaid
 graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
-```
+    MachineLearning_AndrewNg-->DeepLearning;
+    MachineLearning_AndrewNg-->ImageProcessing;
+    DeepLearning-->ComputerVision;
+    ImageProcessing-->ComputerVision;
 
 
 - 👯 I’m looking to collaborate on **Computer vision Projects**
