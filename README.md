@@ -11,10 +11,10 @@
 - 🌱 I’m currently learning  :
 ```mermaid
 graph TD;
-    machine learning andrew ng-->deep learning;
-    machine learning andrew ng-->image processing;
-    deep learning-->Computer vision;
-    image processing-->Computer vision;
+    'machine learning andrew ng'-->'deep learning';
+    'machine learning andrew ng'-->'image processing';
+    'deep learning'-->'Computer vision';
+    'image processing'-->'Computer vision';
 ```
 
 - 👯 I’m looking to collaborate on **Computer vision Projects**
