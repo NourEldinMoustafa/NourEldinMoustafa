@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **[object detection using cnn](https://www.coursera.org/learn/machine-learning)**
 
-- 🌱 I’m currently learning  :
+- 🌱 I’m currently learning **Computer vision (machine learning andrew ng >> deep learning >> image processing).** :
 ```mermaid
 graph TD;
     'machine learning andrew ng'-->'deep learning';
