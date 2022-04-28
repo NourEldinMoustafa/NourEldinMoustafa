@@ -21,7 +21,8 @@ graph TD;
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/NourEldinMoustafa)**
 
-- 📫 How to reach me **[My personal Email](iosnoureldinmoustafa@gmail.com)**
+- 📫 How to reach me **[My personal Email](mailto:iosnoureldinmoustafa@gmail.com)**
+- iosnoureldinmoustafa@gmail.com
 
 - ⚡ Fun fact **chess player.**
 
