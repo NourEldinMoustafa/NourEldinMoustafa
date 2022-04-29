@@ -1,5 +1,7 @@
-<a href="#"><img width="30%" height="auto" src="https://i.imgur.com/JggTZBE.png " height="90px"/></a>
-<a href="#"><img width="30%" height="auto" src="https://i.imgur.com/aMpmCkp.png " height="90px"/></a>
+<a href="#"><img width="30%" height="auto" src="https://i.imgur.com/yd5XdoU.png " height="90px"/></a>
+<a href="#"><img width="30%" height="auto" src="https://i.imgur.com/nBGdrNe.png " height="90px"/></a>
+<a href="#"><img width="30%" height="auto" src="https://i.imgur.com/fCrmHuL.png " height="90px"/></a>
+
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm NourEldin</h1>
 <h3 align="center">I'm an  Ai researcher .</h3>
 
