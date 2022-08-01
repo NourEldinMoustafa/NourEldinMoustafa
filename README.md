@@ -8,7 +8,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[object detection using cnn](https://www.coursera.org/learn/machine-learning)**
+- 🔭 I’m currently working on **[Dental filling detection using yolo,resnet](https://www.coursera.org/learn/machine-learning)**
 
 - 🌱 I’m currently learning :
 ```mermaid
