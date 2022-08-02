@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning :
 ```mermaid
 graph TD;
-    MachineLearning_AndrewNg--> DeepLearning ;
+    MachineLearning--> DeepLearning ;
     MachineLearning_AndrewNg--> ImageProcessing ;
     DeepLearning--> ComputerVision ;
     ImageProcessing--> ComputerVision ;
