@@ -3,12 +3,12 @@
 <a href="#"><img width="30%" height="auto" src="https://i.imgur.com/fCrmHuL.png " height="90px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm NourEldin</h1>
-<h3 align="center">I'm an  ML,CV engineer .</h3>
+<h3 align="center">I'm an  Ai engineer,researcher.</h3>
 
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Dental filling detection using yolo,resnet](https://www.coursera.org/learn/machine-learning)**
+- 🔭 I’m currently working on **[Dental filling detection using yolov5,v6,resnet](https://www.coursera.org/specializations/deep-learning)**
 
 - 🌱 I’m currently learning :
 ```mermaid
