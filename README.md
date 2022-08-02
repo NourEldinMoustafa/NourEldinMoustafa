@@ -14,7 +14,7 @@
 ```mermaid
 graph TD;
     MachineLearning--> DeepLearning ;
-    MachineLearning_AndrewNg--> ImageProcessing ;
+    MachineLearning--> ImageProcessing ;
     DeepLearning--> ComputerVision ;
     ImageProcessing--> ComputerVision ;
 
